@@ -31,5 +31,10 @@ saves
     └── level.dat
 ```
 
+### Transferring Settings Between Versions
+There are a couple of ways to do this - either:
+- Replace the `LBP_*.*.*/data` folder in the ***new*** release with the one from your ***old*** save, OR
+- Replace the `LBP_*.*.*/datapacks` folder in your ***old*** save with the one from the ***new*** release.
+
 ---
 Discord - `Llama#7824`
